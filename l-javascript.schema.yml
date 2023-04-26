@@ -5,4 +5,6 @@ schemas:
     title: l
     parent: root
     children:
-      - pattern: '*'
+      - pattern: javascript
+        children:
+          - pattern: '*'

@@ -1,7 +1,7 @@
 ---
-id: vrdr45tpsxgpkr3vogqqak6
+id: lma873icyl0812r2ce0c2gz
 title: JavaScript
 desc: ''
-updated: 1681725514972
-created: 1681725514972
+updated: 1682489648585
+created: 1682489648585
 ---
