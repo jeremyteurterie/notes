@@ -2,32 +2,32 @@
 id: lma873icyl0812r2ce0c2gz
 title: JavaScript
 desc: ''
-updated: 1682915793711
+updated: 1682916325800
 created: 1682489648585
 ---
 # Modules 
 
 - [M1 - Variables, Data Types, Methods & More](l.javascript.variables-data-types.md)
-- [M2]()
-- [M3]()
-- [M4]()
-- [M5]()
-- [M6]()
-- [M7]()
-- [M8]()
-- [M9]()
-- [M10]()
-- [M11]()
-- [M12]()
-- [M13]()
-- [M14]()
-- [M15]()
-- [M16]()
-- [M17]()
-- [M18]()
-- [M19]()
-- [M20]()
-- [M21]()
+- [M2 - Arrays & Objects]()
+- [M3 - Functions ccope]()
+- [M4 - Logic control scope]()
+- [M5 - Iteration arrays methods]()
+- [M6 - Document object method]()
+- [M7 - Events]()
+- [M8 - Shopping list project]()
+- [M9 - Asynchronous JavaScript]()
+- [M10 - Fetch API Async/Await]()
+- [M11 - Flixx app project]()
+- [M12 - Web browser apis]()
+- [M13 - Oop constructor prototypes]()
+- [M14 - Oop classes private properties]()
+- [M15 - Tracalorie oop project]()
+- [M16 - Modules & Tooling]()
+- [M17 - Iterators data structures]()
+- [M18 - Unit testing algorithms]()
+- [M19 - Node.js modules]()
+- [M20 - Randomideas rest api]()
+- [M21 - Randomideas front end]()
 
 # GitHub Repositories
 
