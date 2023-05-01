@@ -2,34 +2,35 @@
 id: lma873icyl0812r2ce0c2gz
 title: JavaScript
 desc: ''
-updated: 1682916325800
+updated: 1682922841117
 created: 1682489648585
 ---
-# Modules 
+# JavaScript
+## Table of Contents
 
-- [M1 - Variables, Data Types, Methods & More](l.javascript.variables-data-types.md)
-- [M2 - Arrays & Objects]()
-- [M3 - Functions ccope]()
-- [M4 - Logic control scope]()
-- [M5 - Iteration arrays methods]()
-- [M6 - Document object method]()
-- [M7 - Events]()
-- [M8 - Shopping list project]()
-- [M9 - Asynchronous JavaScript]()
-- [M10 - Fetch API Async/Await]()
-- [M11 - Flixx app project]()
-- [M12 - Web browser apis]()
-- [M13 - Oop constructor prototypes]()
-- [M14 - Oop classes private properties]()
-- [M15 - Tracalorie oop project]()
-- [M16 - Modules & Tooling]()
-- [M17 - Iterators data structures]()
-- [M18 - Unit testing algorithms]()
-- [M19 - Node.js modules]()
-- [M20 - Randomideas rest api]()
-- [M21 - Randomideas front end]()
+- [Module 1 - Variables, Data Types, Methods & More](l.javascript.variables-data-types.md)
+- [Module 2 - Arrays & Objects](l.javascript.arrays-objects.md)
+- [Module 3 - Functions scope]()
+- [Module 4 - Logic control scope]()
+- [Module 5 - Iteration arrays methods]()
+- [Module 6 - Document object method]()
+- [Module 7 - Events]()
+- [Module 8 - Shopping list project]()
+- [Module 9 - Asynchronous JavaScript]()
+- [Module 10 - Fetch API Async/Await]()
+- [Module 11 - Flixx app project]()
+- [Module 12 - Web browser apis]()
+- [Module 13 - Oop constructor prototypes]()
+- [Module 14 - Oop classes private properties]()
+- [Module 15 - Tracalorie oop project]()
+- [Module 16 - Modules & Tooling]()
+- [Module 17 - Iterators data structures]()
+- [Module 18 - Unit testing algorithms]()
+- [Module 19 - Node.js modules]()
+- [Module 20 - Randomideas rest api]()
+- [Module 21 - Randomideas front end]()
 
-# GitHub Repositories
+## GitHub Repositories
 
 - [JavaScript Sandbox](https://github.com/bradtraversy/javascript-sandbox)
 - [Shopping List](htt7s://github.com/bradtraversy/shopping-list)
@@ -40,7 +41,7 @@ created: 1682489648585
 
 Code for all mini-projects and learning modules are in the JavaScript Sandbox.
 
-# API Docs
+## API Docs
 
 - [GitHub API](https://developer.github.com/v3/)
 - [TheMovieDB API](https://www.themoviedb.org/documentation/api)
@@ -48,7 +49,7 @@ Code for all mini-projects and learning modules are in the JavaScript Sandbox.
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/)
 - [RandomUser API](https://randomuser.me/)
 
-# Other Links
+## Other Links
 
 - [MDN Docs](https://developer.mozilla.org/en-US/)
 - [VS Code](https://code.visualstudio.com/)
