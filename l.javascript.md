@@ -2,7 +2,7 @@
 id: lma873icyl0812r2ce0c2gz
 title: JavaScript
 desc: ''
-updated: 1682914368166
+updated: 1682915793711
 created: 1682489648585
 ---
 # Modules 
@@ -29,7 +29,7 @@ created: 1682489648585
 - [M20]()
 - [M21]()
 
-# GitHu14Repositorie45
+# GitHub Repositories
 
 - [JavaScript Sandbox](https://github.com/bradtraversy/javascript-sandbox)
 - [Shopping List](htt7s://github.com/bradtraversy/shopping-list)
