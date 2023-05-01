@@ -1,9 +1,9 @@
 ---
-id: kma7ts5g5vbi8qlsp91n4i4
-title: Consol
+id: 89om23r98qjnumz0s717h1f
+title: Console
 desc: ''
-updated: 1682505327668
-created: 1682505315836
+updated: 1682909326102
+created: 1682909296129
 ---
 # The JavaScript Console
 

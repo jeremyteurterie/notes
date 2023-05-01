@@ -1,17 +1,17 @@
 ---
-id: oez1hh56ns4hedkkaukkrd0
+id: 68v3b5wf89najin4xuzntub
 title: Variables
 desc: ''
-updated: 1682508762043
-created: 1682505369729
+updated: 1682914660147
+created: 1682914644871
 ---
 # Variables
 
-Les variables sont des conteneurs pour des morceaux de données. Ces données peuvent être de nombreux types de données différents. Il est important de connaître et de comprendre ces types de données, que nous verrons dans la prochaine leçon, mais pour l'instant, nous allons simplement examiner la syntaxe pour créer et réaffecter des variables ainsi que les différences entre la façon dont nous les déclarons.
+Variables are containers for pieces of data. That data can be one of many different data types. It's important to know and understand those data types and we will go over them in the next lesson, but right now, we are just going to look at the syntax for creating and re-assigning variables as well as the differences between how we declare them.
 
 ## Declaring a Variable
 
-In JavaScript, we need to first declare a variable with one of three keywords
+In JavScript, we need to first declare a variable with one of three keywords
 
 - var
 - let
