@@ -2,10 +2,10 @@
 id: lma873icyl0812r2ce0c2gz
 title: JavaScript
 desc: ''
-updated: 1682922841117
+updated: 1683043226239
 created: 1682489648585
 ---
-# JavaScript
+# JAVASCRIPT
 ## Table of Contents
 
 - [Module 1 - Variables, Data Types, Methods & More](l.javascript.variables-data-types.md)

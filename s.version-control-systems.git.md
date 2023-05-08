@@ -2,9 +2,45 @@
 id: nt0tthyrn13hlj15lyknctl
 title: Git
 desc: ''
-updated: 1681806983050
+updated: 1683043275084
 created: 1681796185376
 ---
+# GIT
+Creates a new branch locally then pushes it.
+```
+git checkout -b $branchname
+git push origin $branchname --set-upstream
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## WORKFLOW:
 
 ### Main branches:
@@ -41,14 +77,6 @@ Prefixed by:
 
 git checkout -b ＜ new-branch ＞
 git push --set-upstream origin develop
-
----
-
-npm create vite@latest
-cd <project-root>
-npm i
-npm run dev
-https://dev.to/ag2byte/create-react-app-is-officially-dead-h7o
 
 ---
 
