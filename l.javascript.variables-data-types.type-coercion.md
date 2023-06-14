@@ -1,9 +1,9 @@
 ---
-id: 7t2tdptu37w49y9z81qgma9
+id: w5gbswg2bywmo2zpe8no3yc
 title: Type Coercion
 desc: ''
-updated: 1682914946724
-created: 1682914938070
+updated: 1686732503648
+created: 1686732099114
 ---
 # Type Coercion
 

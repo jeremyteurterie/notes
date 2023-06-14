@@ -1,9 +1,9 @@
 ---
-id: nwxtdmo5dr2tg4jn50qqxpf
+id: m8of1zrc22nmzvvdpg2xm6h
 title: Array Nesting Concat Sprea
 desc: ''
-updated: 1682922202808
-created: 1682922192425
+updated: 1686732867715
+created: 1686732748068
 ---
 # Nesting, concat, spread & Array Object Methods
 

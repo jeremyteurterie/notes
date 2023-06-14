@@ -1,9 +1,9 @@
 ---
-id: 68v3b5wf89najin4xuzntub
+id: 6zp7q6uc7or49gwsxime8kf
 title: Variables
 desc: ''
-updated: 1682914660147
-created: 1682914644871
+updated: 1686732440410
+created: 1686732036645
 ---
 # Variables
 

@@ -1,9 +1,9 @@
 ---
-id: d6wmh2hz3048y4c091wd7r0
+id: npy0u5v4oxihd8rcj9ldkrt
 title: Array Methods
 desc: ''
-updated: 1682922177150
-created: 1682922166344
+updated: 1686732857107
+created: 1686732728693
 ---
 # Array Methods
 

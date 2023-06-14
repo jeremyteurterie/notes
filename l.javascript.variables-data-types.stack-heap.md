@@ -1,9 +1,9 @@
 ---
-id: cuspszqc1okdxrzbi79kl3m
+id: 6vv4805wwqcwg0upssyrqhs
 title: Stack Heap
 desc: ''
-updated: 1682914740004
-created: 1682914729883
+updated: 1686732465194
+created: 1686732063336
 ---
 # Stack vs Heap Memory Allocation
 

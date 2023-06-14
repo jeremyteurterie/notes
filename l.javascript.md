@@ -1,34 +1,34 @@
 ---
-id: lma873icyl0812r2ce0c2gz
+id: 33wxt7vb24aztj7vxikbl1y
 title: JavaScript
 desc: ''
-updated: 1683043226239
-created: 1682489648585
+updated: 1686731793772
+created: 1686190668599
 ---
 # JAVASCRIPT
 ## Table of Contents
 
 - [Module 1 - Variables, Data Types, Methods & More](l.javascript.variables-data-types.md)
 - [Module 2 - Arrays & Objects](l.javascript.arrays-objects.md)
-- [Module 3 - Functions scope]()
-- [Module 4 - Logic control scope]()
-- [Module 5 - Iteration arrays methods]()
-- [Module 6 - Document object method]()
-- [Module 7 - Events]()
-- [Module 8 - Shopping list project]()
-- [Module 9 - Asynchronous JavaScript]()
-- [Module 10 - Fetch API Async/Await]()
-- [Module 11 - Flixx app project]()
-- [Module 12 - Web browser apis]()
-- [Module 13 - Oop constructor prototypes]()
-- [Module 14 - Oop classes private properties]()
-- [Module 15 - Tracalorie oop project]()
-- [Module 16 - Modules & Tooling]()
-- [Module 17 - Iterators data structures]()
-- [Module 18 - Unit testing algorithms]()
-- [Module 19 - Node.js modules]()
-- [Module 20 - Randomideas rest api]()
-- [Module 21 - Randomideas front end]()
+- [Module 3 - Functions, Scope & Execution Context ](l.javascript.functions-scope-execution-context.md)
+- [Module 4 - Logic & Control Flow](l.javascript.arrays-objects.md)
+- [Module 5 - Loops, Iteration & High Order Array Methods](l.javascript.arrays-objects.md)
+- [Module 6 - Document Object Method](l.javascript.arrays-objects.md)
+- [Module 7 - Events](l.javascript.arrays-objects.md)
+- [Module 8 - Shopping List Project](l.javascript.arrays-objects.md)
+- [Module 9 - Asynchronous](l.javascript.arrays-objects.md)
+- [Module 10 - Fetch API & Async Await](l.javascript.arrays-objects.md)
+- [Module 11 - Flixx app project](l.javascript.arrays-objects.md)
+- [Module 12 - Web Browser APIs](l.javascript.arrays-objects.md)
+- [Module 13 - OOP - Constructors & Prototypes](l.javascript.arrays-objects.md)
+- [Module 14 - OOP - Classes, Getters, Setters & Private Properties](l.javascript.arrays-objects.md)
+- [Module 15 - Tracalorie App Project](l.javascript.arrays-objects.md)
+- [Module 16 - Modules & Tooling](l.javascript.arrays-objects.md)
+- [Module 17 - Iterators, Generators & Data Structures](l.javascript.arrays-objects.md)
+- [Module 18 - Unit Testing Algorithms](l.javascript.arrays-objects.md)
+- [Module 19 - Node.js](l.javascript.arrays-objects.md)
+- [Module 20 - RandomIdeas Project - Backend REST API](l.javascript.arrays-objects.md)
+- [Module 21 - RandomIdeas Project - Webpack Frontend](l.javascript.arrays-objects.md)
 
 ## GitHub Repositories
 

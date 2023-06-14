@@ -1,9 +1,9 @@
 ---
-id: ffs1rzniw6o19g0k2kisyly
+id: gqir5s06u11zkbahh5ui31q
 title: Destructuring Naming
 desc: ''
-updated: 1682922317463
-created: 1682922308421
+updated: 1686732910300
+created: 1686732801776
 ---
 # Destructuring & Naming
 

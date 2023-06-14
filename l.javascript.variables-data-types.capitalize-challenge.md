@@ -1,9 +1,9 @@
 ---
-id: d4h2g3oie11dqjtipqsb0ze
+id: zmcg0iqwd7qpgfkb7t0rdhc
 title: Capitalize Challenge
 desc: ''
-updated: 1682915033886
-created: 1682915024753
+updated: 1686732526124
+created: 1686732121698
 ---
 # Capitalize Challenge
 

@@ -1,9 +1,9 @@
 ---
-id: fqhs64db92g8a9g3pc2ioy9
+id: w6nw0d8nbpfl4kibgcy6303
 title: Array Challenges
 desc: ''
-updated: 1682922226272
-created: 1682922217125
+updated: 1686732879164
+created: 1686732761855
 ---
 # Array Challenges
 

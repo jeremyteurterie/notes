@@ -1,9 +1,9 @@
 ---
-id: idpz2avfx7jjyps6wofcr1o
+id: 82g7dzoaao8nl61q8cywi5p
 title: Object Literals
 desc: ''
-updated: 1682923214998
-created: 1682923201666
+updated: 1686732888561
+created: 1686732772165
 ---
 # Object Literals
 

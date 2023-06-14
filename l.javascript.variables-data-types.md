@@ -1,9 +1,9 @@
 ---
-id: nbskg1phd1gb0rsaa0rnfek
+id: px0zg1jcjhht1b2n2n5ehdi
 title: Variables Data Types
 desc: ''
-updated: 1682922814764
-created: 1682909286173
+updated: 1686732642573
+created: 1686730833058
 ---
 # Variables & Data type
 ## Table of Contents

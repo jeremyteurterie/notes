@@ -1,9 +1,9 @@
 ---
-id: p9r0e67wzdf8gvvagam98vu
+id: fmz44zioruzdh9ekrfkjd3p
 title: Type Conversion
 desc: ''
-updated: 1682914820095
-created: 1682914796486
+updated: 1686732480173
+created: 1686732076809
 ---
 # Type Conversion
 

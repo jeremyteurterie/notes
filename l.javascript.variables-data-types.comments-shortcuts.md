@@ -1,9 +1,9 @@
 ---
-id: 7045w0iuvbwx0akowudw0vy
+id: fzzqn470od3ml5w7qmfs7cd
 title: Comments Shortcuts
 desc: ''
-updated: 1682909340735
-created: 1682909314571
+updated: 1686732407801
+created: 1686732024786
 ---
 # Comments & Shortcuts
 

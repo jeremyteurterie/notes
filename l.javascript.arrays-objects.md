@@ -1,9 +1,9 @@
 ---
-id: j2bmbolzpsxfj75wn56fb2l
+id: jzhuw21iabx42d5ucq7xnnt
 title: Arrays Objects
 desc: ''
-updated: 1682922924193
-created: 1682921655005
+updated: 1686732691680
+created: 1686730920033
 ---
 # Arrays & Objects
 ## Table of Contents

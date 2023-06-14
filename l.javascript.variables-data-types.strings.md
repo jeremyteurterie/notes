@@ -1,11 +1,11 @@
 ---
-id: 9uqwuig1c7pxb7eyut73zl4
+id: bhd94yf962xbp8f1ja7gfol
 title: Strings
 desc: ''
-updated: 1682914993841
-created: 1682914962175
+updated: 1686732514259
+created: 1686732106107
 ---
-# Strings
+# Working with Strings
 
 Alright, so now we're going to work with strings. I'm going to show you how to concatenate strings, use something called **template literals** as well as look at some methods and properties that we can use on string objects.
 

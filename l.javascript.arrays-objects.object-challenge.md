@@ -1,9 +1,9 @@
 ---
-id: khwy4s9ueokc8dxyvf67slh
+id: xfroidvfwiz6xofl19tk8k6
 title: Object Challenge
 desc: ''
-updated: 1682922356555
-created: 1682922347104
+updated: 1686732929191
+created: 1686732818877
 ---
 # Object Challenge
 

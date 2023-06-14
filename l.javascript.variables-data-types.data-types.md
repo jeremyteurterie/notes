@@ -1,9 +1,9 @@
 ---
-id: egyhwp2kpkojianbvfuh19f
+id: giz2qr2w3mf2ywb48vogz73
 title: Data Types
 desc: ''
-updated: 1682914699204
-created: 1682914687951
+updated: 1686732453975
+created: 1686732049060
 ---
 # Data Types
 

@@ -1,9 +1,9 @@
 ---
-id: 6uvqbio9s6w22qynnj6c2ef
+id: 8bbc5xaaczfghpqbfavd6ls
 title: Operators
 desc: ''
-updated: 1682914904339
-created: 1682914893401
+updated: 1686732491319
+created: 1686732087976
 ---
 # Operators & Arithmetic
 

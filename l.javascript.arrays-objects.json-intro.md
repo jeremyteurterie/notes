@@ -1,9 +1,9 @@
 ---
-id: 3sa2y34movq1e0nxlmqoprk
+id: b8bme1drgldpan1exaugpp0
 title: Json Intro
 desc: ''
-updated: 1682922336107
-created: 1682922327438
+updated: 1686732919961
+created: 1686732810143
 ---
 # An Intro to JSON
 

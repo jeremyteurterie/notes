@@ -1,9 +1,9 @@
 ---
-id: ywkprop7iwc5xq6k2bkz8tx
+id: owxbkn3shlj0h88qgd4ytre
 title: Array Basics
 desc: ''
-updated: 1682922151255
-created: 1682922140686
+updated: 1686732843626
+created: 1686732716910
 ---
 # Array Basics
 

@@ -1,9 +1,9 @@
 ---
-id: otiyb5u0rggnxlsgn76cmhc
+id: 8qoxil1pm6prs74l8c2obuw
 title: Math Object
 desc: ''
-updated: 1682915104657
-created: 1682915093904
+updated: 1686732547246
+created: 1686732146078
 ---
 # Math Object
 

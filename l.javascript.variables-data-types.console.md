@@ -1,9 +1,9 @@
 ---
-id: 89om23r98qjnumz0s717h1f
-title: Console
+id: sl8ec1snciv0txf3ohffzys
+title: Consol
 desc: ''
-updated: 1682909326102
-created: 1682909296129
+updated: 1686732368126
+created: 1686732000961
 ---
 # The JavaScript Console
 

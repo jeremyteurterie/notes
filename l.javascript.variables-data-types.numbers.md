@@ -1,11 +1,11 @@
 ---
-id: 3n23bla60kneudu1zq2oliz
+id: 7r50xipg261feilh1dk57ve
 title: Numbers
 desc: ''
-updated: 1682915056593
-created: 1682915043464
+updated: 1686732536553
+created: 1686732131410
 ---
-# Numbers
+# Working with Numbers
 
 So we looked at strings and the properties and methods that are available to us. Now let's look at numbers. We'll also look at the `Math` object.
 

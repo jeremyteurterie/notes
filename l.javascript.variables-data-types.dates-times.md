@@ -1,11 +1,11 @@
 ---
-id: 1jzf0oej9h88n07oeu2v94l
+id: 0nqbrmfxabfdxcgba59ls0g
 title: Dates Times
 desc: ''
-updated: 1682915324679
-created: 1682915181207
+updated: 1686732571219
+created: 1686732170367
 ---
-# Dates
+# Working With Dates
 
 Dates and times are very important in any programming language. JavaScript has a `Date` object that represents a point in time and let's you do some basic operations on it.
 

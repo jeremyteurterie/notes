@@ -1,9 +1,9 @@
 ---
-id: 8expqjp66g6x8hje6s98uzi
-title: Object Spread Methods
+id: c4lm5cb0qla3m3e832pfz7m
+title: Object Spread Method
 desc: ''
-updated: 1682922285480
-created: 1682922275759
+updated: 1686732899506
+created: 1686732787092
 ---
 # Object Nesting, spreading, methods and more
 
