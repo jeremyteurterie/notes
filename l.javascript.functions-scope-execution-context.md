@@ -2,7 +2,7 @@
 id: 0e7vicf6klgtay7qebvvubc
 title: Functions Scope Execution Context
 desc: ''
-updated: 1686887189375
+updated: 1686907002452
 created: 1686731935910
 ---
 
@@ -10,7 +10,7 @@ created: 1686731935910
 ## Table of Contents
 
 - [Chapter 01 - Functions basics](l.javascript.functions-scope-execution-context.functions-basics.md)
-- [Chapter 02 - Functionz arguments](l.javascript.functions-scope-execution-context.functions-arguments.md)
+- [Chapter 02 - Functions arguments](l.javascript.functions-scope-execution-context.functions-arguments.md)
 - [Chapter 03 - Global function scope](l.javascript.functions-scope-execution-context.global-functions-scope.md)
 - [Chapter 04 - Block scope](l.javascript.functions-scope-execution-context.block-scope.md)
 - [Chapter 05 - Nested scope](l.javascript.functions-scope-execution-context.nested-scope.md)

@@ -2,7 +2,7 @@
 id: 33wxt7vb24aztj7vxikbl1y
 title: JavaScript
 desc: ''
-updated: 1686731793772
+updated: 1686907048259
 created: 1686190668599
 ---
 # JAVASCRIPT
@@ -11,7 +11,7 @@ created: 1686190668599
 - [Module 1 - Variables, Data Types, Methods & More](l.javascript.variables-data-types.md)
 - [Module 2 - Arrays & Objects](l.javascript.arrays-objects.md)
 - [Module 3 - Functions, Scope & Execution Context ](l.javascript.functions-scope-execution-context.md)
-- [Module 4 - Logic & Control Flow](l.javascript.arrays-objects.md)
+- [Module 4 - Logic & Control Flow](l.javascript.logic-control-flow.md)
 - [Module 5 - Loops, Iteration & High Order Array Methods](l.javascript.arrays-objects.md)
 - [Module 6 - Document Object Method](l.javascript.arrays-objects.md)
 - [Module 7 - Events](l.javascript.arrays-objects.md)
