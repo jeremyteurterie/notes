@@ -2,7 +2,7 @@
 id: 33wxt7vb24aztj7vxikbl1y
 title: JavaScript
 desc: ''
-updated: 1686907048259
+updated: 1688354084822
 created: 1686190668599
 ---
 # JAVASCRIPT
@@ -13,11 +13,11 @@ created: 1686190668599
 - [Module 3 - Functions, Scope & Execution Context ](l.javascript.functions-scope-execution-context.md)
 - [Module 4 - Logic & Control Flow](l.javascript.logic-control-flow.md)
 - [Module 5 - Loops, Iteration & High Order Array Methods](l.javascript.arrays-objects.md)
-- [Module 6 - Document Object Method](l.javascript.arrays-objects.md)
-- [Module 7 - Events](l.javascript.arrays-objects.md)
-- [Module 8 - Shopping List Project](l.javascript.arrays-objects.md)
-- [Module 9 - Asynchronous](l.javascript.arrays-objects.md)
-- [Module 10 - Fetch API & Async Await](l.javascript.arrays-objects.md)
+- [Module 6 - Document Object Method](l.javascript.dom.md)
+- [Module 7 - Events](l.javascript.events.md)
+- [Module 8 - Shopping List Project](l.javascript.shopping-list-project.md)
+- [Module 9 - Asynchronous](l.javascript.asynchronous.md)
+- [Module 10 - Fetch API & Async Await](l.javascript.fetch-api-async-await.md)
 - [Module 11 - Flixx app project](l.javascript.arrays-objects.md)
 - [Module 12 - Web Browser APIs](l.javascript.arrays-objects.md)
 - [Module 13 - OOP - Constructors & Prototypes](l.javascript.arrays-objects.md)
