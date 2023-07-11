@@ -2,7 +2,7 @@
 id: 33wxt7vb24aztj7vxikbl1y
 title: JavaScript
 desc: ''
-updated: 1688354084822
+updated: 1689059618177
 created: 1686190668599
 ---
 # JAVASCRIPT
@@ -18,9 +18,9 @@ created: 1686190668599
 - [Module 8 - Shopping List Project](l.javascript.shopping-list-project.md)
 - [Module 9 - Asynchronous](l.javascript.asynchronous.md)
 - [Module 10 - Fetch API & Async Await](l.javascript.fetch-api-async-await.md)
-- [Module 11 - Flixx app project](l.javascript.arrays-objects.md)
-- [Module 12 - Web Browser APIs](l.javascript.arrays-objects.md)
-- [Module 13 - OOP - Constructors & Prototypes](l.javascript.arrays-objects.md)
+- [Module 11 - Flixx app project](l.javascript.flixx-app.md)
+- [Module 12 - Web Browser APIs](l.javascript.web-browser-api.md)
+<!-- - [Module 13 - OOP - Constructors & Prototypes](l.javascript.arrays-objects.md)
 - [Module 14 - OOP - Classes, Getters, Setters & Private Properties](l.javascript.arrays-objects.md)
 - [Module 15 - Tracalorie App Project](l.javascript.arrays-objects.md)
 - [Module 16 - Modules & Tooling](l.javascript.arrays-objects.md)
@@ -28,7 +28,7 @@ created: 1686190668599
 - [Module 18 - Unit Testing Algorithms](l.javascript.arrays-objects.md)
 - [Module 19 - Node.js](l.javascript.arrays-objects.md)
 - [Module 20 - RandomIdeas Project - Backend REST API](l.javascript.arrays-objects.md)
-- [Module 21 - RandomIdeas Project - Webpack Frontend](l.javascript.arrays-objects.md)
+- [Module 21 - RandomIdeas Project - Webpack Frontend](l.javascript.arrays-objects.md) -->
 
 ## GitHub Repositories
 
