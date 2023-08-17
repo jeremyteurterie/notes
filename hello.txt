@@ -1,0 +1,12 @@
+ftp://admin:Xvrbvm2ztuhqqvy@@localhost:80
+
+sudo chmod -R 755 directory-name
+
+define('FS_METHOD','direct');
+
+sudo chmod 757 wp-content/themes
+sudo chmod 757 wp-content/plugins
+
+npm create vite@latest
+
+npm install react-toastify

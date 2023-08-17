@@ -1,0 +1,8 @@
+version: 1
+imports: []
+schemas:
+  - id: p
+    title: p
+    parent: root
+    children:
+      - pattern: '*'

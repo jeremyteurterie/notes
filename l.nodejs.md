@@ -2,7 +2,7 @@
 id: i7kdhmzn3qvo2i2hkk2b2wz
 title: Nodejs
 desc: ''
-updated: 1689059547267
+updated: 1689382708017
 created: 1689046974356
 ---
 # NODE.JS
@@ -14,3 +14,9 @@ created: 1689046974356
 - [Module 4 - Os Module](l.nodejs.os-module.md)
 - [Module 5 - Url QueryString](l.nodejs.url-querystring.md)
 - [Module 6 - Http Module](l.nodejs.http-module.md)
+
+[Documentation](https://nodejs.org/en/docs/guides)
+
+[Status Code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+<img src="images/nodejs.png" width="1000" />

@@ -1,8 +1,8 @@
 ---
 id: sl8ec1snciv0txf3ohffzys
-title: Consol
+title: Console
 desc: ''
-updated: 1686732368126
+updated: 1689406865042
 created: 1686732000961
 ---
 # The JavaScript Console
