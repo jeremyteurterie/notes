@@ -10,3 +10,33 @@ sudo chmod 757 wp-content/plugins
 npm create vite@latest
 
 npm install react-toastify
+
+chmod -v 746 DIR
+chmod -v 747 DIR
+chmod -v 756 DIR
+chmod -v 757 DIR
+chmod -v 764 DIR
+chmod -v 765 DIR
+chmod -v 766 DIR
+chmod -v 767 DIR
+
+cors related error, put this before to server side before define routes
+
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+  res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS, PUT, PATCH, DELETE');
+  res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+  next();
+});
+
+
+git push origin -d branch-name
+
+cat << EOF >> ~/.bashrc
+export PATH="\$PATH:/opt/alt/alt-nodejs20/root/usr/bin/"
+EOF
+source ~/.bashrc
+
+export PATH=”$PATH:/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin”
+
+ssh wove5912@wove5912.o2switch.net
